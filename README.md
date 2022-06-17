@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Roberto M. Rocha, better known as Torrober</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate developer from Colombia.</h3>
 
-- 🌱 I’m currently learning **Systems engineering and Computer Science at Uninorte**
+- 🌱 I’m currently learning **Systems Engineering and Computer Science at Uninorte**
 
 - 💬 Ask me about **anything i know of!**
 
-- 📫 How to reach me **robemario124@gmail.com**
+- 📫 How to reach me? Mail me at: **robemario124@gmail.com**
 
 - ⚡ Fun fact **i'm on the spectrum.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/roberto-mario-rocha-hernandez-820576176"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://twitter.com/itstorrober" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itstorrober" height="30" width="40" /></a>
 <a href="https://fb.com/itstorrober" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itstorrober" height="30" width="40" /></a>
 <a href="https://instagram.com/itstorrober" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itstorrober" height="30" width="40" /></a>
+<a href="https://soundcloud.com/torrober-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="i also do music!" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
