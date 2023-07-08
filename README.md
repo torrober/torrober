@@ -17,7 +17,7 @@
 <a href="https://fb.com/itstorrober" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itstorrober" height="30" width="40" /></a>
 <a href="https://instagram.com/itstorrober" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itstorrober" height="30" width="40" /></a>
 <a href="https://soundcloud.com/torrober-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="i also do music!" height="30" width="40" /></a>
-  <a href="https://threads.net/itstorrober"><img align="center" src="https://raw.githubusercontent.com/junhoyeo/threads-py/main/assets/logo.jpg" width="40" height="40" /></a>
+  <a href="https://threads.net/itstorrober"><img align="center" src="https://i.imgur.com/raJPKCP.png" width="40" height="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
