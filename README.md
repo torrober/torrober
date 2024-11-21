@@ -8,7 +8,7 @@
 
 - 📫 How to reach me? Mail me at: **robemario124@gmail.com**
 
-- ⚡ Fun fact: My Favorite anime character is Shigeo Kageyama from Mob Psycho 100!
+- ⚡ Fun fact: My Favorite anime character is **Shigeo Kageyama** from **Mob Psycho 100**!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
