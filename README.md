@@ -13,10 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/roberto-mario-rocha-hernandez-820576176"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/itstorrober" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itstorrober" height="30" width="40" /></a>
-<a href="https://fb.com/itstorrober" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itstorrober" height="30" width="40" /></a>
-<a href="https://instagram.com/itstorrober" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itstorrober" height="30" width="40" /></a>
-<a href="https://bsky.app/profile/itstorrober.bsky.social"><img align="center" src="https://static.wikia.nocookie.net/logopedia/images/c/cd/Bluesky_app_icon.svg/" width="40" height="40" /></a> 
 </p>
 
 <h3>My code stats:</h3>
