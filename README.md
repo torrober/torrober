@@ -23,5 +23,6 @@ torrober/torrober is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <hr>
-<h4>My music taste</h4>
-![Scrobbles](https://lastfm-recently-played.vercel.app/api?user=torrober&bg_color=000000)
+<h3>Now Playing</h3>
+
+[![Recent Scrobbles](https://lastfm-recently-played.vercel.app/api?user=torrober&bg_color=000000)](https://www.last.fm/user/torrober)
