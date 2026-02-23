@@ -3,7 +3,7 @@
 <h3 align="left">A passionate developer from Colombia.</h3>
 
 <hr>
-<a href="https://tinyurl.com/ingrmrochaCV"><h1>My Resume</h1></a>
+<a href="https://tinyurl.com/ingrmrochaCV">My Resume</a>
 
 - 🌱 I’m currently studying **Systems Engineering and Computer Science at Uninorte**
 
