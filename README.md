@@ -2,6 +2,9 @@
 <h2>I'm Roberto M. Rocha, better known as Torrober</h2>
 <h3 align="left">A passionate developer from Colombia.</h3>
 
+<hr>
+<a href="https://tinyurl.com/ingrmrochaCV"><h1>My Resume</h1></a>
+
 - 🌱 I’m currently studying **Systems Engineering and Computer Science at Uninorte**
 
 - 💬 Ask me about **anything i know of!**
