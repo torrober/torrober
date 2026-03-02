@@ -12,7 +12,7 @@ Computer Science / Systems Engineer professional with a strong background in ful
 
 * 💸 **[Biyuyo](https://github.com/torrober/Biyuyo)** - Expenses app built with React + Vite and Capacitor.js, originally scaffolded with Lovable
 * 🛒 **[Athens](https://github.com/AthenasCode/Athens)** - Full-featured e-commerce website built with HTML
-* 🎓 **[proyecto-2](https://github.com/torrober/proyecto-2)** - Backend class project built with TypeScript
+* 🎓 **[Academic Management API](https://github.com/torrober/proyecto-2)** - Backend class project built with TypeScript
 * 📼 **[vhs.py](https://github.com/torrober/vhs.py)** - Analog videotape emulator in Python; processes chrominance and luminance channels separately for authentic VHS distortion
 * 🎬 **[OpenConverter](https://github.com/torrober/OpenConverter)** - Open source video converter built with Electron and FFmpeg-WASM
 * 🗺️ **[PlacesWeb](https://github.com/torrober/PlacesWeb)** - Maps app built with TypeScript
