@@ -23,9 +23,19 @@ Computer Science / Systems Engineer professional with a strong background in ful
 * 🌊 **[SimuladorMAS](https://github.com/torrober/SimuladorMAS)** - Simple Harmonic Motion simulator built for physics coursework
 
 #  GitHub Stats:
-[![Most used languages](https://helio-github-stats.vercel.app/api/top-langs?username=torrober&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+used+languages&hide=makefile)](https://nice-readme.vercel.app/top-langs)
 
-[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=torrober&custom_title=GitHub+Stats&theme=dark&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://helio-github-stats.vercel.app/api/top-langs?username=torrober&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+used+languages&hide=makefile" />
+  <br></br>
+</td>
+
+<td width="50%" align="center">
+  <img  align="center"  src="https://helio-github-stats.vercel.app/api?username=torrober&custom_title=GitHub+Stats&theme=dark&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats"/>
+  </td>
+</tr>
+</table>
 
 <!---
 torrober/torrober is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
